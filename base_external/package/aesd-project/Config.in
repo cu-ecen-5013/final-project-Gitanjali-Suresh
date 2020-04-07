@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_AESD_PROJECT
+	bool "aesd-project"
+	help
+	  Includes the BeagleBone program excutable
