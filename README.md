@@ -1,5 +1,7 @@
-# Overview
+# Smoke Detection System
+This repository contains the contributions by Gitanjali Suresh towards the completion of ECEN 5013 Final Course Project.</br></br>
+Click [here](https://github.com/cu-ecen-5013/final-project-sarayumanagoli/wiki/Project-Overview) for the Project Overview
+## Collaborators
+[Gitanjali Suresh](https://github.com/cu-ecen-5013/final-project-Gitanjali-Suresh)</br>
+[Sarayu Managoli](https://github.com/cu-ecen-5013/final-project-sarayumanagoli)
 
-This repository contains assignment starter code for buildroot based assignments for the course Advanced Embedded Software Design, ECEN 5013
-
-It also contains instructions related to modifying your buildroot project to use with supported hardware platforms.  See [this wiki page](https://github.com/cu-ecen-5013/buildroot-assignments-base/wiki/Supported-Hardware) for details.
