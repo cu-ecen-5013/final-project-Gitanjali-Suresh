@@ -1,4 +1,5 @@
-BR2_aarch64=y
+BR2_arm=y
+BR2_cortex_a53=y
 BR2_GLOBAL_PATCH_DIR="board/beaglebone/patches"
 BR2_PACKAGE_HOST_LINUX_HEADERS_CUSTOM_4_14=y
 BR2_TARGET_GENERIC_ROOT_PASSWD="root"
