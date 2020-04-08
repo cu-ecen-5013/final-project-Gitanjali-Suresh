@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-AESD_ASSIGNMENTS_VERSION = '443dea327c4cb781d1d8dbf98c200fd5e0e93111'
+AESD_ASSIGNMENTS_VERSION = '700402b27cb887f9f6a6b5dd339c840abfbe3f90'
 AESD_ASSIGNMENTS_SITE = 'git@github.com:cu-ecen-5013/final-project-sarayumanagoli.git'
 AESD_ASSIGNMENTS_SITE_METHOD = git
 
@@ -16,6 +16,7 @@ endef
 
 define AESD_ASSIGNMENTS_INSTALL_TARGET_CMDS
 	$(INSTALL) -m 0755 $(@D)/helloworld $(TARGET_DIR)/bin
+	$(INSTALL) -m 0755 $(@D)/sharedmem $(TARGET_DIR)/bin
 endef
 
 
